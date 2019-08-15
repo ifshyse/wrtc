@@ -1,0 +1,17 @@
+{
+  "name": "wrtc",
+  "version": "1.0.0",
+  "description": "my first socket.io app",
+  "main": "index.html",
+  "scripts": {
+    "test": "start index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "node-static": "^0.7.11",
+    "socket.io": "^2.2.0"
+  }
+}
